@@ -1,5 +1,5 @@
 platforms:
-  - os: Windows
+  - os: Linux
 configuration:
   foo:
     type: String
