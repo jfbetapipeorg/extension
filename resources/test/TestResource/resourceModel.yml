@@ -1,6 +1,3 @@
-platforms:
-  - os: Linux
-  - os: Windows
 configuration:
   foo:
     type: String
