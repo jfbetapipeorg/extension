@@ -1,6 +1,9 @@
 platforms:
- - os: Linux
- - os: Windows
+  - os: Linux
 configuration:
   foo:
     type: String
+  sourceArtifactory:
+    type: Integration
+  gitProvider:
+    type: Integration
