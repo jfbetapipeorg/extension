@@ -1,0 +1,7 @@
+platforms:
+  - os: Linux
+configuration:
+  bar:
+    type: InvalidTypeBar
+  foo:
+    type: InvalidTypeFoo
