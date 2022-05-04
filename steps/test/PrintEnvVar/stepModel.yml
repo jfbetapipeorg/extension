@@ -1,6 +1,0 @@
-description: "Print Env Var Step"
-platforms:
-  - os: Linux
-configuration:
-  envVarName:
-    type: String
