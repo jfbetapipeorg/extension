@@ -1,0 +1,9 @@
+platforms:
+  - os: Linux
+configuration:
+  path:
+    type: InvalidTypeTest
+  sourceArtifactory:
+    type: Integration
+  gitProvider:
+    type: Integration
