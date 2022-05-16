@@ -1,7 +1,7 @@
 platforms:
   - os: Linux
 configuration:
-  foo:
+  path:
     type: String
   sourceArtifactory:
     type: Integration
