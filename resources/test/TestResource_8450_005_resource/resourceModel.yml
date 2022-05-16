@@ -1,8 +1,8 @@
 platforms:
   - os: Linux
 configuration:
-  foo:
-    type: String
+  path:
+    type: InvalidTypeTest
   sourceArtifactory:
     type: Integration
   gitProvider:
